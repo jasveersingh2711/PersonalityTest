@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Personality Test</string>
+    
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="initial_score">Answer Got 0/20</string>
+
+    <string name="incorrect_toast">Yes From you</string>
+    <string name="correct_toast">No from you</string>
+
+    <string name="question_1">1. I dont get depressed easily</string>
+    <string name="question_2">2. I plan the next adventure before the current one is finished.</string>
+    <string name="question_3">3. I love to take care of people and I am good at it.</string>
+    <string name="question_4">4. I tend to trust most people.</string>
+    <string name="question_5">5. I am too strict with myself and others.</string>
+    <string name="question_6">6. I am uncomfortable when people want an emotional response from me.</string>
+    <string name="question_7">7. In most close relationships, I give more than I take.</string>
+    <string name="question_8">8. Your happiness and your feelings are your responsibility, not mine.</string>
+    <string name="question_9">9. I do not mind taking a risk; I really like to beat the odds.</string>
+    <string name="question_10">10. I avoid expressing strong emotions.</string>
+    <string name="question_11">11.I am quite unobtrusive and easy to get along with.</string>
+    <string name="question_12">12. I get bored more easily than most people; I am always looking for new experiences.</string>
+    <string name="question_13">13. People are attracted to me because I impress them</string>
+    <string name="question_14">14. I try to get closer to people by being generous with my time and energy.</string>
+    <string name="question_15">15. I tend to avoid conflict.</string>
+    <string name="question_16">16. I am competitive and ambitious, but I do not think of myself as cut throat</string>
+    <string name="question_17">17. Sometimes I have overextended myself in trying to help people.</string>
+    <string name="question_18">18. I am a big procrastinator.</string>
+    <string name="question_19">19. It is strange but I think that there is something beautiful about sadness.</string>
+    <string name="question_20">20. I almost never lose control of myself.</string>
+</resources>
